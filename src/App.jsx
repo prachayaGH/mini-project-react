@@ -1,10 +1,11 @@
 import './App.css'
+import { MovieSurveySection } from './components/MovieSurveySection'
 
 function App() {
 
   return (
     <>
-      <h1>Hello</h1>
+      <MovieSurveySection />
     </>
   )
 }
